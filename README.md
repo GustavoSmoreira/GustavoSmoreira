@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <a href="https://linkedin.com/in/GustavoSMoreira">
+  <a href="https://linkedin.com/in/gustavosmoreira25">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:pbsantos256@gmail.com">
