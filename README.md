@@ -1,6 +1,6 @@
 Olá, sou o Gustavo 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Gustavo S Moreira)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/GustavoSMoreira)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pbsantos256@gmail.com)
 
@@ -13,8 +13,8 @@ Estou construindo minha base como desenvolvedor backend, com foco total em Java 
 Estudo todos os dias, sigo um roadmap próprio rumo a Spring Boot e APIs REST, e estou sempre em busca de aprender mais e evoluir como profissional.
 
 🛠️ Tecnologias
-https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white
-https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 📌 Projetos em destaque
 
