@@ -1,16 +1,34 @@
-## Hi there 👋
+Olá, sou o Gustavo 👋
 
-<!--
-**GustavoSmoreira/GustavoSmoreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
 
-Here are some ideas to get you started:
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pbsantos256@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário Eniac 💻 Em formação intensiva em Java e Programação Orientada a Objetos 🎯 Buscando estágio em desenvolvimento Java
+
+🚀 Sobre mim
+
+Estou construindo minha base como desenvolvedor backend, com foco total em Java e POO. Já pratiquei lógica de programação, estruturas de dados e construí sistemas completos aplicando conceitos como encapsulamento, herança, polimorfismo e uso de coleções pra resolver problemas de negócio reais.
+
+Estudo todos os dias, sigo um roadmap próprio rumo a Spring Boot e APIs REST, e estou sempre em busca de aprender mais e evoluir como profissional.
+
+🛠️ Tecnologias
+
+
+📌 Projetos em destaque
+
+🏦 Gerenciador-Financeiro Sistema financeiro em Java para controle de receitas e despesas, aplicando POO, Collections e regras de negócio.
+
+🏠 Aluguel-usuario Sistema de validação de candidatos a aluguel, com POO, ArrayList, Scanner e validação de renda.
+
+📦 Project_estoque Sistema de controle de estoque em Java, praticando estrutura de dados e lógica de negócio.
+
+📈 Em que estou focado agora
+🔹 Aprofundando POO: herança, polimorfismo, classes abstratas e interfaces
+🔹 Praticando lógica de programação e estruturas de dados todos os dias
+🔹 Estudando o caminho rumo a Spring Boot e desenvolvimento de APIs REST
+📫 Contato
+
+✉️ pbsantos256@gmail.com 🔗 LinkedIn
+
+⭐ Aberto a oportunidades de estágio e conversas sobre tecnologia!
