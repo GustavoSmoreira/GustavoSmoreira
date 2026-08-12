@@ -44,6 +44,5 @@ Estudo todos os dias, sigo um roadmap próprio rumo a Spring Boot e APIs REST, e
 🔹 Estudando o caminho rumo a Spring Boot e desenvolvimento de APIs REST
 📫 Contato
 
-✉️ pbsantos256@gmail.com 🔗 LinkedIn
 
 ⭐ Aberto a oportunidades de estágio e conversas sobre tecnologia!
