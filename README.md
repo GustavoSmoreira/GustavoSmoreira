@@ -1,8 +1,5 @@
-Olá, sou o Gustavo 👋
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/GustavoSMoreira)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pbsantos256@gmail.com)
+<h1 align="center">Hello World</h1> <p align="center"><b>Oi, eu sou o Gustavo!</b></p>
+<p align="center"> <a href="https://linkedin.com/in/seu-usuario"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:pbsantos256@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário Eniac 💻 Em formação intensiva em Java e Programação Orientada a Objetos 🎯 Buscando estágio em desenvolvimento Java
 
