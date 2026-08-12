@@ -1,5 +1,19 @@
-<h1 align="center">Hello World</h1> <p align="center"><b>Oi, eu sou o Gustavo!</b></p>
-<p align="center"> <a href="https://linkedin.com/in/seu-usuario"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:pbsantos256@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hello+World;Eu+sou+o+Gustavo;Java+Developer+em+forma%C3%A7%C3%A3o;Buscando+est%C3%A1gio+em+Java" alt="Typing SVG" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://linkedin.com/in/GustavoSmoreira">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:pbsantos256@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário Eniac 💻 Em formação intensiva em Java e Programação Orientada a Objetos 🎯 Buscando estágio em desenvolvimento Java
 
